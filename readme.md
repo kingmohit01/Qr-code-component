@@ -17,3 +17,4 @@ This project helped me practice:
 - Writing cleaner CSS
 
 ## Live Site
+https://kingmohit01.github.io/Qr-code-component/
